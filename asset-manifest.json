@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_add-todo-form/static/css/main.d79f2877.chunk.css",
+    "main.js": "/react_add-todo-form/static/js/main.e3297c66.chunk.js",
+    "main.js.map": "/react_add-todo-form/static/js/main.e3297c66.chunk.js.map",
+    "runtime~main.js": "/react_add-todo-form/static/js/runtime~main.9d188fa2.js",
+    "runtime~main.js.map": "/react_add-todo-form/static/js/runtime~main.9d188fa2.js.map",
+    "static/js/2.3eab389f.chunk.js": "/react_add-todo-form/static/js/2.3eab389f.chunk.js",
+    "static/js/2.3eab389f.chunk.js.map": "/react_add-todo-form/static/js/2.3eab389f.chunk.js.map",
+    "index.html": "/react_add-todo-form/index.html",
+    "precache-manifest.3760357be0ca4b69a840e9964590bd8e.js": "/react_add-todo-form/precache-manifest.3760357be0ca4b69a840e9964590bd8e.js",
+    "service-worker.js": "/react_add-todo-form/service-worker.js",
+    "static/css/main.d79f2877.chunk.css.map": "/react_add-todo-form/static/css/main.d79f2877.chunk.css.map",
+    "static/media/App.css": "/react_add-todo-form/static/media/bg.96d557b9.jpg"
+  }
+}
